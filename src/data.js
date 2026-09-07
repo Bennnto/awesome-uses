@@ -11109,7 +11109,8 @@ module.exports = [
   },
   {
     name: 'Helen Chong',
-    description: 'Graphic designer turned web and software developer based in Malaysia.',
+    description:
+      'Graphic designer turned web and software developer based in Malaysia.',
     url: 'https://helenchong.dev/uses',
     emoji: '💜',
     country: '🇲🇾',
